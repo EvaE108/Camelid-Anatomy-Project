@@ -4,6 +4,7 @@ var model_list = [
     "Equine",
     // "Daniel"
     "Bovine",
+    "CamelidGI",
 ];
 
 // Ok, that's all you have to do here
